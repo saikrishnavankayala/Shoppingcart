@@ -58,7 +58,7 @@ Product Name: Rice
 Quantity: 5
 Price (per unit): 40
 
-Want to add more items? (y or n): n
+Want to add more items? (y or n): y
 
 Product ID        Name           Quantity      Rate            Total Price
 ---------------------------------------------------------------------------
